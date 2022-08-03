@@ -2,4 +2,11 @@
 
 Built with Marshmallow
 
-Flask-Marshmallow is used to defined the schemas. MailGun is used for e-mail confirmation and every image is posted to file directory images/user_id.
+## Flask-Marshmallow
+Used to defined the schemas. 
+ 
+## E-mail confirmation
+Registration of users have to be confirmed through e-mail and it is done using MailGun.
+
+## Posting image
+Every image is posted to file directory images/user_id, same functionality as others such as to post, get and delete from the designated directory.
