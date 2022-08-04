@@ -1,7 +1,8 @@
 # Advanced Store REST api
 
-Built with Marshmallow:
+Built upon previous store REST api with Marshmallow:
 https://flask-marshmallow.readthedocs.io/en/latest/
+
 
 ## Flask-Marshmallow
 Used to defined the schemas. 
